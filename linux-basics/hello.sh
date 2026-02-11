@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hello from main branch"
-echo "production version"
+echo "Hello from MAIN branch"
+echo "Conflict resolved successfully"
 date
 
