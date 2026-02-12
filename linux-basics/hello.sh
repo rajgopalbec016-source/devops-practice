@@ -4,3 +4,5 @@ echo "Conflict resolved successfully"
 date
 echo "NEW VERSION DEPLOYED"
 echo "AUTO DEPLOY WORKING"
+echo "SMART DEPLOY ACTIVE"
+
