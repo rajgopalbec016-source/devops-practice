@@ -1,5 +1,10 @@
 #!/bin/bash
+
 echo "SMART DEPLOY ACTIVE"
-echo "VERSION 2 DEPLOYED SUCCESSFULLY"
-echo "AUTO DEPLOY TEST $(date)"
-echo "ZERO DOWNTIME TEST"
+echo "Container started at $(date)"
+
+# keep container alive
+while true; do
+  sleep 60
+done
+
