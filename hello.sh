@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "SMART DEPLOY ACTIVE"
 echo "VERSION 2 DEPLOYED SUCCESSFULLY"
+echo "AUTO DEPLOY TEST $(date)"
